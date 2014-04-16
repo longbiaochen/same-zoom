@@ -15,7 +15,7 @@ function initialize() {
 
 	var map_right = new google.maps.Map(document.getElementById('map-right'), {
 		zoom : Z,
-		center : new google.maps.LatLng(30.2500, 120.1667) // Hangzhou
+		center : new google.maps.LatLng(39.9, 116.4) // Hangzhou
 	});
 
 	// add zoom listeners
