@@ -1,0 +1,32 @@
+html {
+	height: 100%;
+	font-family: 'Helvetica Neue';
+}
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#banner {
+	height: 7%;
+	background-color: #F1F1F1;
+}
+#title {
+	margin-left: 2%;
+	font-size: 1.4em;
+	line-height: 1.7em;
+}
+#zoom-level {
+	margin-left: 33%;
+	font-size: 1em;
+}
+#map-left {
+	height: 93%;
+	width: 50%;
+	float: left;
+}
+#map-right {
+	height: 93%;
+	width: 50%;
+	float: right;
+}
